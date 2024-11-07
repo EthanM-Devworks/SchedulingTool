@@ -1,3 +1,6 @@
+IMPORTANT NOTE:
+The SQL server used for this project was a proprietary server used in a virtual machine created for the development of this project. It should be decently easy to reverse engineer, but for the purposes of preserving my code, it will not be included in this repository.
+
 The NightOwl Scheduler was created for the purpose of keeping track of customers and
 appointments in a consulting environment, as well as offering simple reporting features.
 
